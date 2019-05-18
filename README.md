@@ -1,0 +1,1 @@
+My *About me* document is about myself and  career. Its in HTML format, one of the first documents I created first week of Wyncode Academy. I learned how to create a list and href. Learn about each purpose for the tags.
